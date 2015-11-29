@@ -1,4 +1,4 @@
-/* Very basic example that just demonstrates we can run at all!
+/* Very basic example to test the pwm library
  */
 #include "espressif/esp_common.h"
 #include "esp/uart.h"
